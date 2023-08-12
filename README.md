@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Huk</h1>
 <h3 align="center">Python | SQL | CSS | HTML | Flask</h3>
 
-- 🔭 I’m currently working on **Web Scraping Project**
+- 🔭 Currently working on **Web Scraping Project**
 
 - ⚡ Fun fact: **I speak 3 languages! 🇵🇱🇬🇧🇪🇸  (learning two: 🇨🇿🇩🇪)**
 
