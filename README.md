@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adrian Huk</h1>
 <h3 align="center">Python | SQL | CSS | HTML | Flask</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-huk&label=Profile%20views&color=0e75b6&style=plastic" alt="adrian-huk" /> </p>
 
 - 🔭 I’m currently working on **Web Scraping Project**
 
