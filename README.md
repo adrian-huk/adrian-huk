@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Adrian Huk</h1>
+<h1 align="center">Hi 👋, I'm Adrian! </h1>
 <h3 align="center">Python | SQL | CSS | HTML | Flask</h3>
 
 - 🔭 Currently working on: **Web Scraping Project**
