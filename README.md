@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adrian! </h1>
-<h3 align="center">Python | SQL | CSS | HTML | Flask</h3>
+<h2 align="center">Python | SQL | CSS | HTML | Flask</h2>
 
 - 🔭 Currently working on: **Web Scraping Project**
 
